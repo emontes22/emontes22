@@ -4,7 +4,7 @@ Hi 👋 My name is Ervey Montes
 Graduated from UTEP with a Computer Science Degree
 
 * ✉️  You can contact me at [erveymontesc@gmail.com](mailto:erveymontesc@gmail.com)
-* 🧠  I'm learning DJango
+* 🧠  I'm learning React
 * ⚡  Interest: Drawing, Reading, Gaming
 
 ### Skills
