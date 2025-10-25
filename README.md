@@ -1,4 +1,4 @@
-Hi 👋 My name is Ervey Montes
+Hi 👋 My name is Ervey
 =============================
 
 Graduated from UTEP with a Computer Science Degree
